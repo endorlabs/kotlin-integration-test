@@ -1,0 +1,1 @@
+/Users/somakdutta/ws/plugin/bomtest/kotlin/kotlin-integration-test/app/build/classes/kotlin/main/endor/kotlin/integration/test/App.class:/Users/somakdutta/ws/plugin/bomtest/kotlin/kotlin-integration-test/app/build/classes/kotlin/main/endor/kotlin/integration/test/AppKt.class
